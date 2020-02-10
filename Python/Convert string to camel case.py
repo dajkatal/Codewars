@@ -16,4 +16,3 @@ def to_camel_case(text):
     return ''.join(text)
 
 
-print(to_camel_case('the_Stealth_warrior'))

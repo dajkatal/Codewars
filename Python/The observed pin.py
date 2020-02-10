@@ -67,11 +67,5 @@ def get_pins(observed):
 
         return set(run4two(data)) if len(data) == 2 else set(run4more())
 
-
-
-
-
     return list(adjacent[observed]) if len(observed) == 1 else run(observe)
 
-
-print(get_pins('8584'))

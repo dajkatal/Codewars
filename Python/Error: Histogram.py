@@ -25,5 +25,3 @@ def hist(s):
         if i != list(totalErrors.keys())[-1]:
             finalOutput += '\n'
     return finalOutput
-
-print(hist('lgksjlgjoowuvdjlgjuyogeobbaurfcewngjsypugwootxxhzslehgkengowthgonrethgoWGKHEGONSOFYOWGNSRUOFHVKHOHGE9'))

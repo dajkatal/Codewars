@@ -16,5 +16,4 @@ def find_missing_letter(chars):
         oldChar = char
 
 
-print(find_missing_letter(['a', 'b', 'c', 'd', 'f']))
 

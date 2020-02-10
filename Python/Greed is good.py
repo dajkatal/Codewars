@@ -70,4 +70,3 @@ def score(dice):
     return points
 
 
-print(score([1, 5, 1, 3, 4]))

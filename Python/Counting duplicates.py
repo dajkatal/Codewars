@@ -16,4 +16,3 @@ def duplicate_count(text):
 
 
 
-print(duplicate_count('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'))

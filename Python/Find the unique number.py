@@ -11,6 +11,3 @@ def find_uniq(arr):
     else:
         return arr[0]
 
-
-
-print(find_uniq([0, 1, 1, 1, 1, 1, 1, 1]))

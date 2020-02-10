@@ -17,5 +17,4 @@ def count_smileys(arr):
     return correct
 
 
-print(count_smileys([':D', ':~)', ';~D', ':)', ':>)']))
 
