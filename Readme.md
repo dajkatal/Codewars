@@ -2,7 +2,7 @@
 
 <p align="center"> 
 <img src="https://www.codewars.com/users/dajkatal/badges/large"><br>
-A repository will all my solution to codewars.
+A repository with all my solutions to codewars.
 </p>
 
 ## Usage
